@@ -1,0 +1,22 @@
+{
+  "name": "manuscript-review",
+  "version": "1.0.0",
+  "description": "Interactive universal manuscript review plugin. Guides authors and editors through structured editorial passes from first draft to publication-ready file, covering structure, accuracy, voice, proofreading, and production QA.",
+  "author": {
+    "name": "Manuscript Compass",
+    "url": "https://github.com/black93fox-alt"
+  },
+  "homepage": "https://github.com/black93fox-alt/manuscript-compass",
+  "repository": "https://github.com/black93fox-alt/manuscript-compass",
+  "license": "MIT",
+  "keywords": [
+    "manuscript",
+    "editorial",
+    "book-review",
+    "proofreading",
+    "developmental-edit",
+    "publishing"
+  ],
+  "category": "writing",
+  "displayName": "Manuscript Compass"
+}

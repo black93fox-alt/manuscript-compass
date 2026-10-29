@@ -1,0 +1,25 @@
+{
+  "name": "manuscript-review",
+  "displayName": "Manuscript Compass",
+  "version": "1.0.0",
+  "description": "Interactive manuscript review: guided editorial passes from first draft to publication-ready file.",
+  "author": {
+    "name": "Manuscript Compass"
+  },
+  "homepage": "https://github.com/black93fox-alt/manuscript-compass",
+  "repository": "https://github.com/black93fox-alt/manuscript-compass",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "manuscript",
+    "editing",
+    "writing",
+    "proofreading",
+    "publishing",
+    "book",
+    "editorial",
+    "book-review",
+    "developmental-edit"
+  ],
+  "category": "writing"
+}
